@@ -38,5 +38,5 @@ class TodoItem extends React.Component {
 
 export default TodoItem;
 
-// && logic operator, si el primero es true, aplica done, si no, no aplica nada, es nulo automatico
-/// || or, se anota en seguida el siguiente
+// && -> logic operator, si el primero es true, aplica done, si no, no aplica nada, es nulo automatico
+/// || -> or, se anota en seguida el siguiente
